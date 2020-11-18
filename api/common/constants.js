@@ -3,7 +3,7 @@ const constants = {
     'en-US',
     'fr-FR',
     'es-ES',
-    'ko-KO',
+    'ko-KR',
     'ja-JP',
     'de-DE'
   ]
